@@ -19,7 +19,7 @@ Promover la calidad educativa y los valores sociales
 * *Manejo de emociones*
 ### Idiomas
 *Español: Lengua madre*
-**Inglés: B2**
+**Inglés: B2** 
 
 # TABLA DE COMANDOS
 
